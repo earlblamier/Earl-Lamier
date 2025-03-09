@@ -11,7 +11,7 @@ I have over 10 years of experience in IT, with a diverse background in software 
 - 💻 **Python Programmer** (4+ years experience)
 - 🔒 **ISC2 Cybersecurity Certified**
 - 📊 **Data Science & Analytics Enthusiast**
-- 🏥 **Background in Health Informatics**
+- 🏥 **Health Informatics Certificate**
 
 ## Projects
 
@@ -20,20 +20,20 @@ Here are some of the projects I’ve worked on:
 ### 1. **[Project Name]**
 - **Description**: A brief description of what the project does.
 - **Technologies**: C#, .NET, SQL, Entity Framework, Angular
-- **Link**: [Link to live project or demo]
-- **Repo**: [Link to GitHub repository]
+- **Link**: https://github.com/earlblamier/CareerCloud
+- **Repo**: https://github.com/earlblamier/CareerCloud
 
 ### 2. **[Project Name]**
 - **Description**: A brief description of what the project does.
-- **Technologies**: Python, Flask, PostgreSQL, gRPC
-- **Link**: [Link to live project or demo]
-- **Repo**: [Link to GitHub repository]
+- **Technologies**: Python, DJango, Postman, gRPC
+- **Link**: TBA
+- **Repo**: TBA
 
 ### 3. **[Project Name]**
 - **Description**: A brief description of what the project does.
-- **Technologies**: React, Firebase, Node.js, Docker
-- **Link**: [Link to live project or demo]
-- **Repo**: [Link to GitHub repository]
+- **Technologies**: Angular, Firebase, Node.js, Docker
+- **Link**: https://github.com/earlblamier/angular-web-project
+- **Repo**: https://github.com/earlblamier/angular-web-project
 
 *(Add more projects as needed)*
 
@@ -48,20 +48,20 @@ Here are some of the projects I’ve worked on:
 ## Education
 
 - **Full Stack .NET Developer Bridging Program**  
-  Humber Polytechnic, Ontario — *In Progress (2025)*
+  Humber Polytechnic, Ontario, Canada — *In Progress (2025)*
   
 - **Bachelor of Science in Software Engineering**  
-  [University Name], Philippines — *Graduated (Year)*
+  Philippines
 
 - **Bachelor of Science in Nursing**  
-  [University Name], Philippines — *Graduated (Year)*
+  Philippines
 
 ## Get In Touch
 
-- **Email**: earlblamier@gmail.com
+- **Email**: earl@helionfrost.com
 - **LinkedIn**: [https://www.linkedin.com/in/earl-lamier](https://www.linkedin.com/in/earl-lamier)
-- **Website**: [Your website or business link, if applicable]
-- **Twitter**: [@yourtwitterhandle] (Optional)
+- **Website**: www.earl-lamier.dev
+- **Twitter**: earlblamier
 
 Feel free to explore my repositories and projects. I’m always open to collaborating on new ideas and contributing to innovative solutions. Thank you for visiting my portfolio!
 =======
