@@ -17,9 +17,9 @@ I have over 10 years of experience in IT, with a diverse background in software 
 
 Here are some of the projects I’ve worked on:
 
-### 1. **[Project Name]**
+### 1. **CareerCloud**
 - **Description**: A brief description of what the project does.
-- **Technologies**: C#, .NET, SQL, Entity Framework, Angular
+- **Technologies**: C#, .NET, SQL, Entity Framework, gRPC, RESTful API, Docker
 - **Link**: https://github.com/earlblamier/CareerCloud
 - **Repo**: https://github.com/earlblamier/CareerCloud
 
